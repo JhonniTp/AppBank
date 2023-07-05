@@ -1,0 +1,11 @@
+Aplicacion bancaria (funciones):
+1. Registro de usuario o inicio de Sesión.
+2. Muestra detallada de informacion del usuario como la Cedula , saldo, saldo de ahorros, saldo corriente y el total (pantalla de inicio de la aplicación).
+3. Deposito de dinero.
+4. Retiro de dinero.
+5. Registro de transacciones.
+8. Finalizacion del programa.
+
+Desarrollo del rpoyecto de manera textual (Descripcion).
+... (por hacer)
+
